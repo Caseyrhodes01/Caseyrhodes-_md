@@ -1,5 +1,5 @@
 {
-   "name": "suhail-x-whatsapp",
+   "name": "Caseyrhodes",
    "version": "1.0.1",
    "status" : "Under Developement!",
    "description": "Multi device whatsapp bot.",
@@ -14,7 +14,7 @@
             "fis-heroku-postbuild": "git clone https://github.com/SuhailTechInfo/Suhail-Md.git temp1 && rsync -av temp1/* ./ && rsync -av temp1/.* ./ && rm -rf temp1 && npm i && npx puppeteer@latest install",
             "dbs--postinstall": "npx puppeteer@latest install --y"
    },
-   "author": "SuhailTechInfo",
+   "author": "Caseyrhodes",
    "license" :"Apache-2.0",
    "dependencies": {
              "@adiwajshing/keyed-db": "^0.2.4",
