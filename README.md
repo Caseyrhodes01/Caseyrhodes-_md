@@ -32,7 +32,8 @@ caseyrhodes_md is a multi-device bot designed to enhance your WhatsApp conversat
 
   
   
-5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=heroku)*** 
+5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=heroku)***
+6.  ***Deploy on [`render`](https://suhail-web01.vercel.app/deploy?platform=render)***
 ## Contributors
 **GET In Touch with The Owner**
 
