@@ -11,6 +11,9 @@ caseyrhodes_md is a multi-device bot designed to enhance your WhatsApp conversat
 
 - **Text to Img:** The best logos have been selected for your convenience.
 
+- ![CASSERHODES](https://github.com/user-attachments/assets/3206b753-58db-406c-868e-f41411339f77)
+
+
 ## Fun Features
  
 - **Jokes and Riddles:**caseyrhodes_md comes with a collection of jokes and riddles to liven up your conversations.
@@ -32,5 +35,4 @@ caseyrhodes_md is a multi-device bot designed to enhance your WhatsApp conversat
      2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
 
 ## Contributors
-![CASSERHODES](https://github.com/user-attachments/assets/c3c298e7-b493-4ebe-bd6c-569cf61966dd)
 
