@@ -22,7 +22,7 @@ caseyrhodes_md is a multi-device bot designed to enhance your WhatsApp conversat
 
 ## caseyrhodes
 
-1. Click on **[pair code](
+1. Click on **[pair code]
 1. ***Get [`SESSION ID`](https://yobih-bot-session-1.onrender.com/)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
 
 2. MAKE SURE YOU FORK THE REPO: 
@@ -30,7 +30,7 @@ caseyrhodes_md is a multi-device bot designed to enhance your WhatsApp conversat
    [Fork](https://github.com/Caseyrhodes01/Caseyrhodes-_md) ; <br>
 
 
-4. Deploy
+  
   
 5.  ***Deploy on [`HEROKU`](https://suhail-web01.vercel.app/deploy?platform=heroku)*** 
 ## Contributors
@@ -40,3 +40,5 @@ caseyrhodes_md is a multi-device bot designed to enhance your WhatsApp conversat
     <img alt="CLICK HERE" src="https://img.shields.io/badge/ On WhatsApp  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+**THANKS FOR CHOSING ME**
