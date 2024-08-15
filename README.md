@@ -31,8 +31,5 @@ caseyrhodes_md is a multi-device bot designed to enhance your WhatsApp conversat
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
      2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
 
-## Contributions
-
-![mbappe - Copy](https://github.com/user-attachments/assets/ac6d8a0b-372f-4ced-b8d5-eccf65b5c35d)
-
-
+## Contributors
+/storage/emulated/0/Pictures/WallExplore/men_487_1080x2400px.jpg
