@@ -36,4 +36,9 @@ caseyrhodes_md is a multi-device bot designed to enhance your WhatsApp conversat
      2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
 
 ## Contributors
+**GET In Touch with The Owner**
 
+- <a href="https://wa.me/254112192119" target="_blank">
+    <img alt="CLICK HERE" src="https://img.shields.io/badge/ On WhatsApp  -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
