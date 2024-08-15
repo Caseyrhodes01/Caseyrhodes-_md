@@ -22,9 +22,10 @@ caseyrhodes_md is a multi-device bot designed to enhance your WhatsApp conversat
 
 ## caseyrhodes
 
-1. Click on **[Fork](https://github.com/Luffy2ndAccount/Zokou-english-v/fork)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
+1. Click on **[pair code](
+1. ***Get [`SESSION ID`](https://yobih-bot-session-1.onrender.com/)  by scanning QR code. `Whatapp>Three dots>Linked Devices`***)** to copy the repo to your GitHub account. Make sure to add a star 🌟 to encourage the developers.
 
-2. Obtain a bot session: 
+2. MAKE SURE YOU FORK THE REPO: 
 
    [Fork](https://github.com/Caseyrhodes01/Caseyrhodes-_md) ; <br>
 
