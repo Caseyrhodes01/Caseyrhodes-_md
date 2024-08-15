@@ -26,10 +26,10 @@ caseyrhodes_md is a multi-device bot designed to enhance your WhatsApp conversat
 
 2. Obtain a bot session: 
 
-   [Session-1](https://zokouscan-production.up.railway.app) ; <br>
+   [Fork](https://github.com/Caseyrhodes01/Caseyrhodes-_md) ; <br>
 
 
-3. Deploy
+4. Deploy
    - **Heroku Deployment:**
      1. If you don't have a **Heroku** account, click [**here**](https://id.heroku.com/login) to create one.
      2. Click [**here**](https://dashboard.heroku.com/new?template=https://github.com/Luffy2ndAccount/Zokou-english-v) to deploy the bot on **Heroku**.
